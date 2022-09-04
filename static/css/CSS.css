@@ -1,0 +1,12 @@
+body{
+    background-image: url("/static/py.jpg");
+
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    /*background-size: cover;*/
+    /*background-position: center;*/
+    /*filter: grayscale(0.3);*/
+    /*height: 800px;*/
+    /*padding: 0 1rem;*/
+}
